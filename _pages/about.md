@@ -13,7 +13,7 @@ I'm a Ph.D. student from [Engineering Systems and Design Pillar(ESD)](https://es
 
 My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-I am very fortunate to be advised by [Prof. Karthyek Murthy](https://sites.google.com/site/karthyekswebpage/) of Risk analytics and Robust Optmization Lab from [Engineering Systems and Design Pillar(ESD)](https://esd.sutd.edu.sg/), [Singapore University of Technology and Design](https://www.sutd.edu.sg/)
+I am very fortunate to be advised by [Prof. Karthyek Murthy](https://sites.google.com/site/karthyekswebpage/) of Risk analytics and Robust Optmization Lab from [ESD](https://esd.sutd.edu.sg/), [SUTD](https://www.sutd.edu.sg/)
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
