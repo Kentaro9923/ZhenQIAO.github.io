@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhen QIAO / Site Title"
+title                    : "Zhen QIAO"
 title_separator          : "-"
 name                     : &name "Zhen QIAO"
 description              : &description "Ph.D. Student in SUTD"
