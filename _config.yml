@@ -21,13 +21,13 @@ repository               : "Kentaro9923/ZhenQIAO.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "GXD_6155.jpg"
   name             : "Zhen QIAO"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "PhD Student in SUTD🇸🇬"
+  location         : "Singapore"
+  employer         : "Singapore University of Technology and Design"
+  uri              : "https://esd.sutd.edu.sg/people/phd-students/qiao-zhen/"
   email            : "none@example.org" 
 
   # Academic websites
