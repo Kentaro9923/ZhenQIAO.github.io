@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my Website!😊 
 
-My name is Zhen QIAO (乔祯). I'm a Ph.D. student from [Engineering Systems and Design Pillar(ESD)](https://esd.sutd.edu.sg/), [Singapore University of Technology and Design](https://www.sutd.edu.sg/).  I obtained my master's degree in Engineering of Information, Production and Design at [Waseda University (早稲田大学)](https://www.waseda.jp/top/en/) under the supervision of [Prof. Fujimura Shigeru(藤村 茂 教授)](https://www.waseda.jp/fsci/gips/other-en/2015/09/08/2172/). Before that, I obtained my bachelor's degree with Distinction in Industrial Optimisation (Industrial and Applied Mathematics) from Curtin University, Australia and bachelor's degree in Industrial Engineering from Yanshan University, P.R.China.
+My name is Zhen QIAO (乔祯). I'm a Ph.D. student from [Engineering Systems and Design Pillar(ESD)](https://esd.sutd.edu.sg/), [Singapore University of Technology and Design](https://www.sutd.edu.sg/).  I obtained my master's degree in Engineering of Information, Production and Design at [Waseda University (早稲田大学)](https://www.waseda.jp/top/en/) under the supervision of [Prof. Fujimura Shigeru](https://www.waseda.jp/fsci/gips/other-en/2015/09/08/2172/). Before that, I obtained my bachelor's degree with Distinction in Industrial Optimisation (Industrial and Applied Mathematics) from [Curtin University, Australia](https://www.curtin.edu.au) and bachelor's degree in Industrial Engineering from [Yanshan University, P.R.China](https://english.ysu.edu.cn/index.htm).
 
 My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
