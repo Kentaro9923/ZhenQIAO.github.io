@@ -21,7 +21,7 @@ Contact me
 ======
 Address: #1.714.S38, 8 Somapah Road, Singapore 487372
 
-Email:[zhen_qiao@mymail.sutd.edu.sg](mailto:zhen_qiao@mymail.sutd.edu.sg), [zhen_qiao@fuji.waseda.jp](mailto:zhen_qiao@fuji.waseda.jp) / 
+Email: [zhen_qiao@mymail.sutd.edu.sg](mailto:zhen_qiao@mymail.sutd.edu.sg), [zhen_qiao@fuji.waseda.jp](mailto:zhen_qiao@fuji.waseda.jp) 
 
 
 
