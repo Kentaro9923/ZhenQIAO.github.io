@@ -15,7 +15,7 @@ Now, I am very fortunate to be advised by [Prof. Karthyek Murthy](https://sites.
 
 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Zhen QIAO's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 Contact me
 ======
