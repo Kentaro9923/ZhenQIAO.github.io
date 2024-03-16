@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Engineering Systems and Design, Singapore University of Technology and Design, 2028 (expected)
+* Joint Ph.D. in Industrial Systems Engineering and Management, National University of Singapore, 2028 (expected)
+* M.Eng. in Engineering of Information, Production and Systems, Waseda University, 2023
+* B.S. in Industrial Optimisation, Curtin University, 2021
+* B.Admin. in Industrial Engineering, Yanshan University, 2021
 
 Work experience
 ======
@@ -34,8 +36,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Python
+* R
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
